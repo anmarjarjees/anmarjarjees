@@ -1,4 +1,4 @@
-### Hi there 👋 I am Anmar Jarjees, a Web Developer and Instructor with more than 10 years of experience in teaching and training different levels of students in various subjects including:
+### Hi there 👋 I am Anmar Jarjees, a Web Developer and Instructor with more than 10 years of experience in teaching and training different levels of students in various subjects and programs including:
 - Web Development and Programming
 - Introduction to Graphic Design
 - Microsoft Office Applications
