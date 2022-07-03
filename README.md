@@ -4,6 +4,8 @@
 - Microsoft Office Applications
 - Computer Hardware and Software
 
+I am in process of keep uploading more samples of my previous and the coming code, assignments, and projects.
+
 <!--
 **anmarjarjees/anmarjarjees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
