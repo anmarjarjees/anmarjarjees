@@ -24,11 +24,16 @@ Here are some ideas to get you started:
 
 ### GitHub Quick Tips 
 ##### (Dear students, please refer to my two comprehensive pdf files about using Git, GitHub, and GitPod for more details and explinations)
+### New Repo
+You can start a new empty repo on GitHub by adding the essentials "README.md" and .gitignore, then you can clone it to your local machine. GitHub will use the "main" branch by default.
+- To clone a repo (I used my repo as an example):
+> git clone https://github.com/anmarjarjees/git-review.git
+
 - To connect your local folder with your remote repo, my example:
 > git remote add origin https://github.com/anmarjarjees/git-basic.git
 - To download all the files that only exist in the remote repo:
 > git pull origin master
-OR: <br>
+<br> OR: <br>
 > git pull origin main
 
 NOTE: We need to pull the changes/differences in the main repo before pushing the local ones to avoid the conflict
