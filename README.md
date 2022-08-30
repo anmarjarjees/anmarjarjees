@@ -55,6 +55,14 @@ OR:
 - You can also check your repo branch name:
 > git branch
 
+- in case you added (staged) all folders/files and forget to ignore some with .gitignore, and you need to unstage everything and start again, you can use "git restore --staged <file>..." to unstage [based on git comment]:
+> git restore --staged <file>
+OR for unstaging everything:
+> git restore --staged *
+
+Based on "git-scm.com" documenttation:<b>
+Git version 2.23.0 introduced a new command: "git restore". It's basically an alternative to "git reset". From Git version 2.23.0 onwards, Git will use git restore instead of git reset for many undo operations.
+
 ### NOTES: 
 - Make sure to upload the public code that you want to share into your default branch whether it's "main" or "master" for immediate and easy access
 - You can select/set your default branch:
