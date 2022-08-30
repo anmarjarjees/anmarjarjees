@@ -57,7 +57,7 @@ OR:
 
 - in case you added (staged) all folders/files and forget to ignore some with .gitignore, and you need to unstage everything and start again, you can use "git restore --staged <file>..." to unstage [based on git comment]:
 > git restore --staged <file>
-OR for unstaging everything:
+<br> OR for unstaging everything:<br>
 > git restore --staged *
 
 Based on "git-scm.com" documenttation:<b>
