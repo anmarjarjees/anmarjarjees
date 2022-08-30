@@ -74,5 +74,6 @@ Git version 2.23.0 introduced a new command: "git restore". It's basically an al
 
 ### MARKDOWN Language:
 For more refreshing about using Markdown language,
-you can check the official documents of GitHub:
+- You can check the official documents of GitHub:
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- You can check the extended syntax: [Markdown Guide](https://www.markdownguide.org/extended-syntax/)
