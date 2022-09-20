@@ -1,10 +1,13 @@
-### Hi there 👋 I am Anmar Jarjees, a Web Developer and Instructor with more than 10 years of experience in teaching and training different levels of students in various subjects and programs including:
+### Hi there 👋 my name is Anmar Jarjees, a Web Developer and Instructor with more than 10 years of experience in teaching and training different levels of students in various subjects and programs including:
 - Web Development and Programming
 - Introduction to Graphic Design
 - Microsoft Office Applications
 - Computer Hardware and Software
 
-I am in process of keep uploading more samples of my previous and the coming code, assignments, and projects.
+I am in process of keep uploading more samples of my previous and the coming code, assignments, and projects. 
+
+My favourite quote that I like to practice in my profession:
+  > "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." **by Abraham Lincoln**
 
 <!--
 **anmarjarjees/anmarjarjees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
