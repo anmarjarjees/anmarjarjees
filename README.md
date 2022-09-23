@@ -60,20 +60,38 @@ OR:
 # Main Branch and Master Branch:
 GitHub creates the repository with a single branch. This first branch in the repository is the default branch. The default branch is the branch that GitHub displays when anyone visits your repository. By default, GitHub names the default branch *"main"* in any new repository.
 
-When we do the other way by first creating/converting a local folder into a git repo "git init" and then adding an empty GitHub repo later to upload (push) our files, Git will use the "master" branch to be the default one, but we should always use "main" as the default main branch. To avoid naming our branch with "master" we need to use this command:
-> git branch -M main
+When we do the other way by first creating/converting a local folder into a git repo "git init" and then adding an empty GitHub repo later to upload (push) our files, Git will use the "master" branch to be the default one, but we should always use "main" as the default main branch. To avoid naming our branch with "master" we need to use this command:  
+
+  > git branch -M main
+
 GitHub will remind us by listing the following commands when we create an empty repo. which are the steps to do locally:
-> git init
-> git add README.md
-> git commit -m "first commit"
-> git branch -M main
-> git remote add origin https://github.com/anmarjarjees/branch-test.git
-> git push -u origin main
+  > git init
+
+  > git add README.md
+  
+  > git commit -m "first commit"
+  
+  > git branch -M main
+  
+  > git remote add origin https://github.com/anmarjarjees/git-first-way.git
+  
+  > git push -u origin main
 
 …or push an existing repository from the command line
-> git remote add origin https://github.com/anmarjarjees/branch-test.git
-> git branch -M main
-> git push -u origin main
+  
+  > git remote add origin https://github.com/anmarjarjees/git-first-way.git
+  
+  > git branch -M main
+  
+  > git push -u origin main
+
+Notice that -u flag for "upstream" creates a tracking reference for every branch that you successfully push onto the remote repository. based on Git *"For every branch that is up to date or successfully pushed, add upstream (tracking) reference, used by argument-less git-pull[1] and other commands"*.
+
+Example:
+instead of:
+  > git pull origin main
+ we can just use:
+  > git pull
 
 
 - in case you added (staged) all folders/files and forget to ignore some with .gitignore, and you need to unstage everything and start again, you can use "git restore --staged <file>..." to unstage [based on git comment]:
