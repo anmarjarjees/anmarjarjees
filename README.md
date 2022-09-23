@@ -28,18 +28,18 @@ Here are some ideas to get you started:
 ### GitHub Quick Tips 
 ##### (Dear students, please refer to my two comprehensive pdf files about using Git, GitHub, and GitPod for more details and explinations)
 ### New Repo
-You can start a new empty repo on GitHub by adding the essentials "README.md" and .gitignore, then you can clone it to your local machine. GitHub will use the "main" branch by default.
+You can start a new empty repo on GitHub first by adding the essentials "README.md" and .gitignore, then you can clone it to your local machine. GitHub will use the "main" branch by default.
 - To clone a repo (I used my repo as an example):
 > git clone https://github.com/anmarjarjees/git-review.git
 
 - To connect your local folder with your remote repo, my example:
 > git remote add origin https://github.com/anmarjarjees/git-basic.git
 - To download all the files that only exist in the remote repo:
-> git pull origin master
+> git pull origin main
 <br> OR: <br>
 > git pull origin main
 
-NOTE: We need to pull the changes/differences in the main repo before pushing the local ones to avoid the conflict
+NOTE: We need to pull the changes/differences in the main online repo before pushing the local ones to avoid any conflict
 - Add all your new/updated files to staging:
 > git add .
 
@@ -48,7 +48,6 @@ NOTE: We need to pull the changes/differences in the main repo before pushing th
 
 - Push/Upload your code to GitHub
 > git push origin master
-
 OR:
 > git push origin main
 
@@ -57,6 +56,25 @@ OR:
 
 - You can also check your repo branch name:
 > git branch
+
+# Main Branch and Master Branch:
+GitHub creates the repository with a single branch. This first branch in the repository is the default branch. The default branch is the branch that GitHub displays when anyone visits your repository. By default, GitHub names the default branch *"main"* in any new repository.
+
+When we do the other way by first creating/converting a local folder into a git repo "git init" and then adding an empty GitHub repo later to upload (push) our files, Git will use the "master" branch to be the default one, but we should always use "main" as the default main branch. To avoid naming our branch with "master" we need to use this command:
+> git branch -M main
+GitHub will remind us by listing the following commands when we create an empty repo. which are the steps to do locally:
+> git init
+> git add README.md
+> git commit -m "first commit"
+> git branch -M main
+> git remote add origin https://github.com/anmarjarjees/branch-test.git
+> git push -u origin main
+
+…or push an existing repository from the command line
+> git remote add origin https://github.com/anmarjarjees/branch-test.git
+> git branch -M main
+> git push -u origin main
+
 
 - in case you added (staged) all folders/files and forget to ignore some with .gitignore, and you need to unstage everything and start again, you can use "git restore --staged <file>..." to unstage [based on git comment]:
 > git restore --staged <file>
