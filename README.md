@@ -36,8 +36,8 @@ You can start a new empty repo on GitHub first by adding the essentials "README.
 > git remote add origin https://github.com/anmarjarjees/git-basic.git
 - To download all the files that only exist in the remote repo:
 > git pull origin main
-<br> OR: <br>
-> git pull origin main
+- To list (view) the remote repo(s) (GitHub, Heroku, etc.) of your current local project, you can type:
+>	git remote -v
 
 NOTE: We need to pull the changes/differences in the main online repo before pushing the local ones to avoid any conflict
 - Add all your new/updated files to staging:
