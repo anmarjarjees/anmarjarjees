@@ -102,7 +102,7 @@ instead of:
 Based on "git-scm.com" documenttation:<b>
 Git version 2.23.0 introduced a new command: "git restore". It's basically an alternative to "git reset". From Git version 2.23.0 onwards, Git will use git restore instead of git reset for many undo operations.
 
-### NOTES: 
+### Branch NOTES: 
 - Make sure to upload the public code that you want to share into your default branch whether it's "main" or "master" for immediate and easy access
 - You can select/set your default branch:
 -- Go to "Settings"
@@ -110,6 +110,10 @@ Git version 2.23.0 introduced a new command: "git restore". It's basically an al
 -- Click the two opposite arrows icon to see the switching branch menu
 -- Select the branch that you want to set as a default then click "Update"
 -- Accept the warning of doing these changes "I understand, update the default branch"
+  
+ #### NOTE: You can open any link in a new tab using either of the following ways:
+- Hold down the CTRL Key in windows or the COMMAND key on Mac then click it
+- Right-click the link and choose to open the link in a new tab or new window from the context menu
 
 ### MARKDOWN Language:
 For more refreshing about using Markdown language,
