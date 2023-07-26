@@ -4,7 +4,7 @@
 - Microsoft Office Applications
 - Computer Hardware and Software
 
-I am in process of keep uploading more samples of my previous and the coming code, assignments, and projects. 
+I am in the process of keeping uploading more samples of my previous and coming code, assignments, and projects. 
 
 My favourite quote that I like to practice in my profession:
   > "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." **by Abraham Lincoln**
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ### GitHub Quick Tips 
-##### (Dear students, please refer to my two comprehensive pdf files about using Git, GitHub, and GitPod for more details and explinations)
+##### (Dear students, please refer to my two comprehensive pdf files about using Git, GitHub, and GitPod for more details and explanations)
 ### New Repo
 You can start a new empty repo on GitHub first by adding the essentials "README.md" and .gitignore, then you can clone it to your local machine. GitHub will use the "main" branch by default.
 - To clone a repo (I used my repo as an example):
@@ -64,7 +64,7 @@ When we do the other way by first creating/converting a local folder into a git 
 
   > git branch -M main
 
-GitHub will remind us by listing the following commands when we create an empty repo. which are the steps to do locally:
+GitHub will remind us by listing the following commands when we create an empty repo which are the steps to do locally:
   > git init
 
   > git add README.md
@@ -99,7 +99,7 @@ instead of:
 <br> OR for unstaging everything:<br>
 > git restore --staged *
 
-Based on "git-scm.com" documenttation:<b>
+Based on "git-scm.com" documentation:<b>
 Git version 2.23.0 introduced a new command: "git restore". It's basically an alternative to "git reset". From Git version 2.23.0 onwards, Git will use git restore instead of git reset for many undo operations.
 
 ### Branch NOTES: 
@@ -112,11 +112,11 @@ Git version 2.23.0 introduced a new command: "git restore". It's basically an al
 -- Accept the warning of doing these changes "I understand, update the default branch"
   
  #### NOTE: You can open any link in a new tab using either of the following ways:
-- Hold down the CTRL Key in windows or the COMMAND key on Mac then click it
+- Hold down the CTRL Key in Windows or the COMMAND key on Mac then click it
 - Right-click the link and choose to open the link in a new tab or new window from the context menu
 
 ### MARKDOWN Language:
 For more refreshing about using Markdown language,
-- You can check the official documents of GitHub:
+- You can check the official documents on GitHub:
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - You can check the extended syntax: [Markdown Guide](https://www.markdownguide.org/extended-syntax/)
