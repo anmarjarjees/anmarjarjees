@@ -4,7 +4,7 @@
 - Microsoft Office Applications
 - Computer Hardware and Software
 
-I am in the process of keeping uploading more samples of my previous and coming code, assignments, and projects. 
+I am in the process of uploading more samples of my previous and coming code examples. 
 
 My favourite quote that I like to practice in my profession:
   > "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." **by Abraham Lincoln**
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ### GitHub Quick Tips 
-##### (Dear students, please refer to my two comprehensive pdf files about using Git, GitHub, and GitPod for more details and explanations)
+##### (Dear students, please refer to my two comprehensive PDF files about using Git, GitHub, and GitPod for more details and explanations)
 ### New Repo
-You can start a new empty repo on GitHub first by adding the essentials "README.md" and .gitignore, then you can clone it to your local machine. GitHub will use the "main" branch by default.
+You can start a new empty repo on GitHub first by adding the essentials "README.md" and .gitignore, and then you can clone it to your local machine. GitHub will use the "main" branch by default.
 - To clone a repo (I used my repo as an example):
 > git clone https://github.com/anmarjarjees/git-review.git
 
