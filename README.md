@@ -100,7 +100,7 @@ instead of:
 > git restore --staged *
 
 Based on "git-scm.com" documentation:<b>
-Git version 2.23.0 introduced a new command: "git restore". It's basically an alternative to "git reset". From Git version 2.23.0 onwards, Git will use git restore instead of git reset for many undo operations.
+Git version 2.23.0 introduced a new command: "git restore". It's an alternative to "git reset". From Git version 2.23.0 onwards, Git will use git restore instead of git reset for many undo operations.
 
 ### Branch NOTES: 
 - Make sure to upload the public code that you want to share into your default branch whether it's "main" or "master" for immediate and easy access
