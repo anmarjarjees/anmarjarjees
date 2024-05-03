@@ -1,12 +1,12 @@
-### Hi there 👋 my name is Anmar Jarjees, a Web Developer and Instructor with more than 10 years of experience in teaching and training different levels of students in various subjects and programs including:
+### Hi there 👋 my name is Anmar Jarjees, a Web Developer and Instructor with more than 10 years of experience in teaching and training students at different levels in various subjects and programs, including:
 - Web Development and Programming
 - Introduction to Graphic Design
 - Microsoft Office Applications
 - Computer Hardware and Software
 
-I am in the process of uploading more samples of my previous and coming code examples. 
+I usually keep my repositories updated and regularly upload additional samples of my previous and upcoming code examples. 
 
-My favourite quote that I like to practice in my profession:
+One of my favorite quotes, which I strive to embody in my profession, is:
   > "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." **by Abraham Lincoln**
 
 <!--
