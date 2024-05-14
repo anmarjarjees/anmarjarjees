@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### GitHub Quick Tips 
 ##### (Dear students, please refer to my two comprehensive PDF files about using Git, GitHub, and GitPod for more details and explanations)
 ### New Repo
-You can start a new empty repo on GitHub first by adding the essentials "README.md" and .gitignore, and then you can clone it to your local machine. By convetion, repository name should use all lowercase letters and separate words using dashes (-). GitHub will use the "main" branch by default.
+You can start a new empty repository on GitHub first by adding the essentials: a 'README.md' and a '.gitignore' file. Then, you can clone it to your local machine. By convention, repository names should use all lowercase letters and separate words using dashes (-). GitHub will use the 'main' branch by default.
 - To clone a repo (I used my repo as an example):
 > git clone https://github.com/anmarjarjees/git-review.git
 
