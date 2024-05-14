@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### GitHub Quick Tips 
 ##### (Dear students, please refer to my two comprehensive PDF files about using Git, GitHub, and GitPod for more details and explanations)
 ### New Repo
-You can start a new empty repo on GitHub first by adding the essentials "README.md" and .gitignore, and then you can clone it to your local machine. GitHub will use the "main" branch by default.
+You can start a new empty repo on GitHub first by adding the essentials "README.md" and .gitignore, and then you can clone it to your local machine. By convetion, repository name should use all lowercase letters and separate words using dashes (-). GitHub will use the "main" branch by default.
 - To clone a repo (I used my repo as an example):
 > git clone https://github.com/anmarjarjees/git-review.git
 
@@ -113,7 +113,7 @@ Git version 2.23.0 introduced a new command: "git restore". It's an alternative 
   
  #### NOTE: You can open any link in a new tab using either of the following ways:
 - Hold down the CTRL Key in Windows or the COMMAND key on Mac then click it
-- Right-click the link and choose to open the link in a new tab or new window from the context menu
+- Right-click the link and choose 'Open Link in New Tab' or 'Open Link in New Window' from the context menu.
 
 ### MARKDOWN Language:
 For more refreshing about using Markdown language,
