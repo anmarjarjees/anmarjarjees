@@ -1,4 +1,5 @@
-### Hi there 👋 my name is Anmar Jarjees, a Web Developer and Instructor with more than 10 years of experience in teaching and training students at different levels in various subjects and programs, including:
+### Hello, my name is Anmar Jarjees
+I am a Web Developer and Instructor with more than 12 years of experience in teaching and training students at different levels in various subjects and programs, including:
 - Web Development and Programming
 - Introduction to Graphic Design
 - Microsoft Office Applications
@@ -27,19 +28,19 @@ Here are some ideas to get you started:
 
 ### GitHub Quick Tips 
 ##### (Dear students, please refer to my two comprehensive PDF files about using Git, GitHub, and GitPod for more details and explanations)
-### New Repo
+### New Repository (repo)
 You can start a new empty repository on GitHub first by adding the essentials: a 'README.md' and a '.gitignore' file. Then, you can clone it to your local machine. By convention, repository names should use all lowercase letters and separate words using dashes (-). GitHub will use the 'main' branch by default.
-- To clone a repo (I used my repo as an example):
+- To clone a repository (I used my repository as an example):
 > git clone https://github.com/anmarjarjees/git-review.git
 
-- To connect your local folder with your remote repo, my example:
+- To connect your local folder with your remote repository (my example):
 > git remote add origin https://github.com/anmarjarjees/git-basic.git
 - To download all the files that only exist in the remote repo:
 > git pull origin main
 - To list (view) the remote repo(s) (GitHub, Heroku, etc.) of your current local project, you can type:
 >	git remote -v
 
-NOTE: We need to pull the changes/differences in the main online repo before pushing the local ones to avoid any conflict
+NOTE: We need to pull the changes/differences in the main online repository before pushing the local ones to avoid any conflicts.
 - Add all your new/updated files to staging:
 > git add .
 
@@ -85,7 +86,9 @@ GitHub will remind us by listing the following commands when we create an empty 
   
   > git push -u origin main
 
-Notice that -u flag for "upstream" creates a tracking reference for every branch that you successfully push onto the remote repository. based on Git *"For every branch that is up to date or successfully pushed, add upstream (tracking) reference, used by argument-less git-pull[1] and other commands"*.
+Notice that **-u** flag for **"upstream"** creates a tracking reference for every branch that you successfully push onto the remote repository. According to Git:
+
+*"For every branch that is up to date or successfully pushed, add upstream (tracking) reference, used by argument-less git-pull[1] and other commands"*.
 
 Example:
 instead of:
@@ -94,7 +97,7 @@ instead of:
   > git pull
 
 
-- in case you added (staged) all folders/files and forget to ignore some with .gitignore, and you need to unstage everything and start again, you can use "git restore --staged <file>..." to unstage [based on git comment]:
+If you added (staged) all folders/files and forget to ignore some with .gitignore, and you need to unstage everything and start again, you can use "git restore --staged <file>..." to unstage [based on Git documentation]:
 > git restore --staged <file>
 <br> OR for unstaging everything:<br>
 > git restore --staged *
@@ -111,7 +114,8 @@ Git version 2.23.0 introduced a new command: "git restore". It's an alternative 
 -- Select the branch that you want to set as a default then click "Update"
 -- Accept the warning of doing these changes "I understand, update the default branch"
   
- #### NOTE: You can open any link in a new tab using either of the following ways:
+ #### NOTE: 
+ You can open any link in a new tab using either of the following ways:
 - Hold down the CTRL Key in Windows or the COMMAND key on Mac then click it
 - Right-click the link and choose 'Open Link in New Tab' or 'Open Link in New Window' from the context menu.
 
