@@ -34,6 +34,11 @@ You can start a new empty repository on GitHub first by adding the essentials: a
 > git clone https://github.com/anmarjarjees/git-review.git
 
 - To connect your local folder with your remote repository (my example):
+
+Make sure that Git is initialized within the current folder:
+> git init
+
+Then:
 > git remote add origin https://github.com/anmarjarjees/git-basic.git
 - To download all the files that only exist in the remote repo:
 > git pull origin main
