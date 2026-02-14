@@ -1,14 +1,21 @@
 ### Hello, my name is Anmar Jarjees
-I am a Web Developer and Instructor with more than 12 years of experience in teaching and training students at different levels in various subjects and programs, including:
-- Web Development and Programming
-- Introduction to Graphic Design
-- Microsoft Office Applications
-- Computer Hardware and Software
+I am a Web Developer and Instructor with more than 12 years of experience teaching and training students at different levels in various subjects and programs, including:
+- Web Development and Computer Programming
+- Introduction to Graphic Design and Multimedia
+- Microsoft Office Applications for Advanced Accounting and Office Adminstraion
+- Computer Hardware and Networking
 
-I usually keep my repositories updated and regularly upload additional samples of my previous and upcoming code examples. 
+I regularly keep my repositories updated and upload additional samples of both previous and upcoming code projects.
 
-One of my favorite quotes, which I strive to embody in my profession, is:
+One of my favourite quotes, which I usually try to follow in my profession, is:
   > "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." **by Abraham Lincoln**
+
+### Tech Stack:
+- **Front-end:** HTML, CSS, JavaScript, MEVN (MongoDB, Express, Vue, Node)
+- **Back-end:** C#, ASP.NET Core, MVC, Java, PHP, Python, Django
+- **Databases:** MySQL, SQL Server, NoSQL
+- **Cloud & APIs:** REST APIs, Azure
+- **Tools:** Git, GitHub, Postman
 
 <!--
 **anmarjarjees/anmarjarjees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
