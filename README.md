@@ -12,7 +12,7 @@ One of my favourite quotes, which I usually try to follow in my profession, is:
 
 ### Tech Stack:
 - **Front-end:** HTML, CSS, JavaScript, MEVN (MongoDB, Express, Vue, Node)
-- **Back-end:** C#, ASP.NET Core, MVC, Java, PHP, Python, Django
+- **Back-end:** C#, ASP.NET Core, MVC, Java, PHP, Python, Django, C++
 - **Databases:** MySQL, SQL Server, NoSQL
 - **Cloud & APIs:** REST APIs, Azure
 - **Tools:** Git, GitHub, Postman
