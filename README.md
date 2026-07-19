@@ -1,37 +1,39 @@
 ### Hello, my name is Anmar Jarjees
-I am a Web Developer and Instructor with more than 12 years of experience teaching and training students at different levels in various subjects and programs, including:
+I am a Technical Instructor and .NET Full-Stack Developer with 15+ years of experience in software development, web technologies, and programming education.
+My focus is building practical applications using C#, ASP.NET Core, databases, and modern web technologies, while helping learners understand real-world software development practices.
+
+Throughout my teaching career, I have delivered courses covering:
 - Web Development and Computer Programming
+- Object-Oriented Programming and Software Design
+- Database Development
+- Full-Stack Web Technologies
+- Programming Frameworks and Development Tools
 - Introduction to Graphic Design and Multimedia
-- Microsoft Office Applications for Advanced Accounting and Office Adminstraion
-- Computer Hardware and Networking
+- Microsoft Office Applications for Advanced Accounting and Office Administration
+- Computer Hardware and Basic Networking
 
-I regularly keep my repositories updated and upload additional samples of both previous and upcoming code projects.
+I regularly update my repositories with new projects, improvements to existing code samples, and educational resources created from my teaching and continuous learning experiences. Some projects are ongoing and continue to evolve as I explore new technologies and development practices.
 
-One of my favourite quotes, which I usually try to follow in my profession, is:
+A quote that reflects my approach to learning and professional growth:
   > "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." **by Abraham Lincoln**
 
-### Tech Stack:
-- **Front-end:** HTML, CSS, JavaScript, MEVN (MongoDB, Express, Vue, Node)
-- **Back-end:** C#, ASP.NET Core, MVC, Java, PHP, Python, Django, C++
-- **Databases:** MySQL, SQL Server, NoSQL
-- **Cloud & APIs:** REST APIs, Azure
-- **Tools:** Git, GitHub, Postman
+### Tech Stack
+- **Languages:** C#, Java, JavaScript, TypeScript, Python, PHP, C++, SQL
+- **Backend:** ASP.NET Core, MVC, REST APIs, Node.js, Express, Django
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Vue.js, Bootstrap
+- **Databases:** SQL Server, MySQL, MongoDB
+- **Cloud & Tools:** Microsoft Azure, Git, GitHub, Visual Studio, VS Code, Postman
 
-<!--
-**anmarjarjees/anmarjarjees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Beyond Coding
+Music has always been an important part of my life. I enjoy playing keyboard and guitar and participating in different church choirs.
+Music continues to inspire my creativity, listening skills, patience, and collaboration, qualities that also influence my approach to software development and teaching.
 
-Here are some ideas to get you started:
+### Connect With Me
+- [Portloflio](https://www.anmarjarjees.com/)
+- [LinkedIn](https://www.linkedin.com/in/anmarjarjees/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+---
+---
 
 ### GitHub Quick Tips 
 ##### (Dear students, please refer to my two comprehensive PDF files about using Git, GitHub, and GitPod for more details and explanations)
@@ -108,7 +110,6 @@ instead of:
  we can just use:
   > git pull
 
-
 If you added (staged) all folders/files and forget to ignore some with .gitignore, and you need to unstage everything and start again, you can use "git restore --staged <file>..." to unstage [based on Git documentation]:
 > git restore --staged <file>
 <br> OR for unstaging everything:<br>
@@ -136,3 +137,18 @@ For more refreshing about using Markdown language,
 - You can check the official documents on GitHub:
 [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - You can check the extended syntax: [Markdown Guide](https://www.markdownguide.org/extended-syntax/)
+
+<!--
+**anmarjarjees/anmarjarjees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
